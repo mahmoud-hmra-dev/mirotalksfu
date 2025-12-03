@@ -3868,7 +3868,7 @@ function leaveFeedback(allowCancel) {
         imageUrl: image.feedback,
         position: 'top',
         title: 'Leave a feedback',
-        text: 'Do you want to rate your MiroTalk experience?',
+        text: 'Do you want to rate your Clindoctor experience?',
         confirmButtonText: `Yes`,
         denyButtonText: `No`,
         cancelButtonText: `Cancel`,
@@ -6265,12 +6265,12 @@ function showAbout() {
                             <a 
                                 id="email-button" 
                                 data-umami-event="Email button" 
-                                href="mailto:miroslav.pejic.85@gmail.com?subject=MiroTalk SFU info"> 
+                                href="mailto:miroslav.pejic.85@gmail.com?subject=Clindoctor SFU info">
                                 miroslav.pejic.85@gmail.com
                             </a>
                             <br /><br />
                             <hr />
-                            <span>&copy; 2025 MiroTalk SFU, all rights reserved</span>
+                            <span>&copy; 2025 Clindoctor SFU, all rights reserved</span>
                             <hr />
                         `
                 }
